@@ -39,7 +39,7 @@ If you find this work useful in your research, please consider citing:
 @inproceedings{chen2025identifying,
   title={Identifying DDoS Attacks in-Kernel via eBPF/XDP and Knowledge Distillation},
   author={Chen, Kezhuo and Yuan, Ding and Qiu, Dehong},
-  booktitle={Proceedings of the [Insert Conference Name Here]},
+  booktitle={2025 14th International Conference on Computing and Pattern Recognition (ICCPR)},
   year={2025},
-  organization={IEEE}
+  address={Beijing, China}
 }

@@ -43,3 +43,7 @@ If you find this work useful in your research, please consider citing:
   year={2025},
   address={Beijing, China}
 }
+
+## 📧 Contact
+
+- **Ding Yuan**: ragazzo_dd27@outlook.com

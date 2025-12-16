@@ -23,9 +23,14 @@ Macro F1 Score has increased by 1.1%, reaching 97.6%.
 Keywords—DDoS attack, eBPF/XDP, in-kernel identification, 
 knowledge distillation 
 
-## 📥 Download (下载)
-- **Paper**: [Click here to view the paper](./Identifying DDoS Attacks in-Kernel via eBPFXDP and Knowledge Distillation.pdf)
-- **Poster**: [Click here to view the poster](./Conference_Poster.pdf)
+## 📥 Resources (资源下载)
+
+Here you can download the author's version of the paper and the conference poster.
+
+- 📄 **Paper PDF**: [Identifying DDoS Attacks in-Kernel via eBPFXDP and Knowledge Distillation](./Identifying%20DDoS%20Attacks%20in-Kernel%20via%20eBPFXDP%20and%20Knowledge%20Distillation.pdf)
+- 📊 **Conference Poster**: [Poster Presentation](./poster.pdf)
+
+> **Note**: This repository is for archiving the paper and poster. The source code is currently not available due to commercial/maintenance reasons.
 
 ## ⚠️ Note on Source Code (关于源代码的说明)
 Due to [commercial reasons / patent restrictions / current maintenance], the source code is not publicly available at this moment. 

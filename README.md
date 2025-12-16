@@ -48,3 +48,6 @@ If you find this work useful in your research, please consider citing:
 ## 📧 Contact
 
 - **Ding Yuan**: ragazzo_dd27@outlook.com
+
+---
+© 2025 Kezhuo Chen, Ding Yuan, Dehong Qiu. All Rights Reserved.

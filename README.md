@@ -24,7 +24,7 @@ Keywords—DDoS attack, eBPF/XDP, in-kernel identification,
 knowledge distillation 
 
 ## 📥 Download (下载)
-- **Paper**: [Click here to view the paper](./Identifying_DDoS_Attacks.pdf)
+- **Paper**: [Click here to view the paper](./Identifying DDoS Attacks in-Kernel via eBPFXDP and Knowledge Distillation.pdf)
 - **Poster**: [Click here to view the poster](./Conference_Poster.pdf)
 
 ## ⚠️ Note on Source Code (关于源代码的说明)
